@@ -1,5 +1,5 @@
 {
-  "name": "@lib/csrf",
+  "name": "@knetcode/csrf",
   "version": "0.0.1",
   "description": "A simple CSRF token middleware for Next.js",
   "type": "module",
@@ -35,10 +35,6 @@
     "package.json"
   ],
   "sideEffects": false,
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/knetcode-team/csrf.git"
-  },
   "keywords": [
     "nextjs",
     "csrf",
@@ -46,9 +42,6 @@
   ],
   "author": "Kyle Esterhuizen",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/knetcode-team/csrf/issues"
-  },
   "peerDependencies": {
     "next": ">=13.4.0"
   },
